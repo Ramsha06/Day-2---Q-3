@@ -1,2 +1,2 @@
-# Day-2 - Q-3
- STRIPPING NAME
+"# simple-calculator" 
+"# famous" 
